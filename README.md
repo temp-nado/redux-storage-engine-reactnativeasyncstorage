@@ -34,7 +34,7 @@ Thank you [michaelcontento](https://github.com/michaelcontento) for a great libr
 
     The MIT License (MIT)
 
-    Copyright (c) 2015 Michael Contento
+    Copyright (c) 2015 Gunjan Soni
 
     Permission is hereby granted, free of charge, to any person obtaining a copy of
     this software and associated documentation files (the "Software"), to deal in
