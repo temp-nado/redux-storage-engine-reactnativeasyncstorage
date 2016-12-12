@@ -1,13 +1,12 @@
 # [redux-storage-engine-reactnativeasyncstorage][]
 
-[![build](https://travis-ci.org/michaelcontento/redux-storage-engine-reactnativeasyncstorage.svg?branch=master)](https://travis-ci.org/michaelcontento/redux-storage-engine-reactnativeasyncstorage)
-[![dependencies](https://david-dm.org/michaelcontento/redux-storage-engine-reactnativeasyncstorage.svg)](https://david-dm.org/michaelcontento/redux-storage-engine-reactnativeasyncstorage)
-[![devDependencies](https://david-dm.org/michaelcontento/redux-storage-engine-reactnativeasyncstorage/dev-status.svg)](https://david-dm.org/michaelcontento/redux-storage-engine-reactnativeasyncstorage#info=devDependencies)
+[![build](https://travis-ci.org/react-stack/redux-storage-engine-reactnativeasyncstorage.svg?branch=master)](https://travis-ci.org/react-stack/redux-storage-engine-reactnativeasyncstorage)
+[![dependencies](https://david-dm.org/react-stack/redux-storage-engine-reactnativeasyncstorage.svg)](https://david-dm.org/react-stack/redux-storage-engine-reactnativeasyncstorage)
+[![devDependencies](https://david-dm.org/react-stack/redux-storage-engine-reactnativeasyncstorage/dev-status.svg)](https://david-dm.org/react-stack/redux-storage-engine-reactnativeasyncstorage#info=devDependencies)
 
 [![license](https://img.shields.io/npm/l/redux-storage-engine-reactnativeasyncstorage.svg?style=flat-square)](https://www.npmjs.com/package/redux-storage-engine-reactnativeasyncstorage)
 [![npm version](https://img.shields.io/npm/v/redux-storage-engine-reactnativeasyncstorage.svg?style=flat-square)](https://www.npmjs.com/package/redux-storage-engine-reactnativeasyncstorage)
 [![npm downloads](https://img.shields.io/npm/dm/redux-storage-engine-reactnativeasyncstorage.svg?style=flat-square)](https://www.npmjs.com/package/redux-storage-engine-reactnativeasyncstorage)
-[![Code Climate](https://codeclimate.com/github/michaelcontento/redux-storage-engine-reactnativeasyncstorage/badges/gpa.svg)](https://codeclimate.com/github/michaelcontento/redux-storage-engine-reactnativeasyncstorage)
 
 `AsyncStorage` based engine for [redux-storage][].
 
